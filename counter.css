@@ -1,0 +1,36 @@
+#conatiner{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: 2px solid  black;
+}
+#conatiner h1{
+
+    padding: 0px 0px 0px 70px;
+}
+#conatiner h3{
+    padding: 0px 0px 0px 150px;
+}
+#btn{
+    margin: 0px 0px 0px 200px;
+}
+#count{
+    /* border: 2px solid black; */
+    margin: 0px 0px 0px 215px;
+    /* background-color: blue; */
+    border-radius: 20px;
+    display: hidden;  
+}
+
+.counter{
+    margin: 100px 0px 0px 190px;
+}
+#counter2{
+    margin: 0px 0px 0px 100px;
+}
+#decrement{
+    margin-left: 40px;
+}
+#increment{
+    margin-left: 40px;
+}
